@@ -1,4 +1,4 @@
-🎵 Tune Player – Flutter Xylophone App
+🎵 Tune Player App
 4
 
 A Simple Interactive Musical App built with Flutter
